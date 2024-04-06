@@ -2,6 +2,6 @@
 
 ### Olá, meu nome é Lorraine Garcia!
 
-<img src="https://img.shields.io/static/v1?label=Git&message=LorraineGarcia&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Git&message=LorraineGarcia&color=FF69B4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p> Eu sou estudante de Engenharia de Software e estagiando como QA na Pice Gallery</p>
